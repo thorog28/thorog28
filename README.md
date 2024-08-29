@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thorog28
+- 👀 I’m interested in Computer Science and Physics
+- 🌱 I’m currently studying for a BS in Computer Science
